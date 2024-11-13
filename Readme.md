@@ -1,8 +1,8 @@
 **Technologies used:** 
-    - Pandas
-    - NumPy
-    - Matplotlib
-    - Scikit-Learn
+- Pandas
+- NumPy
+-  Matplotlib
+-  Scikit-Learn
 
 **Description**
 
